@@ -90,7 +90,6 @@ def int_to_roman(num):
     return result
 
 print(f"O numero em romano é {int_to_roman(num)}")
-print("   tmj")
 
 def roman_to_int(s):
     roman_values = {
